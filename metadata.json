@@ -1,0 +1,6 @@
+{
+  "name": "AuditGrid — Auditor",
+  "description": "Mobile field auditor app for AuditGrid — distributor product audits, retail market shop audits, custom audits, daily audit plans, and live GPS verification connected to the main AuditGrid server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

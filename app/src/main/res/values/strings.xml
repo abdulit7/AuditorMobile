@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AuditGrid — Auditor</string>
+    <string name="test_build_badge">TEST BUILD</string>
+    <string name="server_address_label">Server address</string>
+    <string name="server_address_placeholder">http://192.168.1.20:3001</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="signing_in_button">Signing in…</string>
+    <string name="login_footer_note">Uses the same accounts and data as the AuditGrid web and mobile-browser apps.</string>
+    <string name="tab_audit">Audit</string>
+    <string name="tab_plans">Plans</string>
+    <string name="tab_places">Places</string>
+    <string name="tab_distributors">Distributors</string>
+    <string name="tab_account">Account</string>
+    <string name="offline_banner">You are offline. Drafts are saved on this phone. Submitting needs a connection.</string>
+    <string name="live_sharing_banner">Your location is shared with your managers while your plan is in progress. It stops when the plan ends.</string>
+    <string name="change_password_button">Change password</string>
+    <string name="log_out_button">Log out</string>
+</resources>
